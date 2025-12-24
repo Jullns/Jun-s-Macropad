@@ -10,7 +10,7 @@ This is my macropad for music design and art. Following the tutorial from the bl
 ## Screenshots:
 Schematic
 
-<img width="280" height="363" alt="image" src="https://github.com/user-attachments/assets/b16583af-80a7-44a0-8b4d-f47043df92f5" />
+<img width="380" height="463" alt="image" src="https://github.com/user-attachments/assets/b16583af-80a7-44a0-8b4d-f47043df92f5" />
 
 PCB
 
