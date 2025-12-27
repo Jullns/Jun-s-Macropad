@@ -9,12 +9,10 @@ This is my macropad for music design and art. Following the tutorial from the bl
 
 ## Screenshots:
 Schematic
-
-<img width="380" height="463" alt="image" src="https://github.com/user-attachments/assets/b16583af-80a7-44a0-8b4d-f47043df92f5" />
+<img width="574" height="386" alt="Captura de tela 2025-12-27 134249" src="https://github.com/user-attachments/assets/4e642e10-683c-43f1-91ac-c66cbac9a0e4" />
 
 PCB
-
-<img width="280" height="363" alt="image" src="https://github.com/user-attachments/assets/5f6a2801-f032-428d-8f2c-b7ae90e071bd" />
+<img width="280" height="363" alt="Captura de tela 2025-12-27 134348" src="https://github.com/user-attachments/assets/34412644-ca99-4fa9-99ad-c92960cdc18e" />
 
 Case
 
