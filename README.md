@@ -8,10 +8,10 @@ This is my macropad for music design and art. Following the tutorial from the bl
 - SK6812 MINI-E LEDs (x2)
 
 ## Screenshots:
-Schematic
+   Schematic
 <img width="574" height="386" alt="Captura de tela 2025-12-27 134249" src="https://github.com/user-attachments/assets/4e642e10-683c-43f1-91ac-c66cbac9a0e4" />
 
-PCB
+   PCB
 <img width="280" height="363" alt="Captura de tela 2025-12-27 134348" src="https://github.com/user-attachments/assets/34412644-ca99-4fa9-99ad-c92960cdc18e" />
 
 Case
