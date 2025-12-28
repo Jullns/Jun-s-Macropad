@@ -1,27 +1,31 @@
 import board
 from kmk.kmk_keyboard import KMKKeyboard
+from kmk.scanners.keypad import KeysScanner
 from kmk.keys import KC
-from kmk.scanners import DiodeOrientation
+from kmk.modules.macros import Macros
 from kmk.modules.encoder import EncoderHandler
-from kmk.modules.holdtap import HoldTap
 
 keyboard = KMKKeyboard()
-
-keyboard.col_pins = (board.D2, board.D3)
-keyboard.row_pins = (board.D4, board.D5, board.D6, board.D7)
-keyboard.diode_orientation = DiodeOrientation.COL2ROW
-
-holdtap = HoldTap()
+macros = Macros()
 encoder_handler = EncoderHandler()
-keyboard.modules = [holdtap, encoder_handler]
 
-encoder_handler.pins = ((board.D1, board.D0, board.D10),)
-encoder_handler.map = [(
-    (KC.LCTRL(KC.EQUAL), KC.LCTRL(KC.MINUS)),
-    KC.MUTE,
-)]
+keyboard.modules.append(macros)
+keyboard.modules.append(encoder_handler)
 
-holdtap.tap_time = 200
+PINS = [
+    board.D0, board.D1, board.D2, board.D3, 
+    board.D4, board.D5, board.D6, board.D10,
+    board.D7
+]
+
+keyboard.matrix = KeysScanner(
+    pins=PINS,
+    value_when_pressed=False,
+)
+
+encoder_handler.pins = (
+    (board.D8, board.D9, None, False),
+)
 
 keyboard.keymap = [
     [
@@ -33,7 +37,12 @@ keyboard.keymap = [
         KC.HT(KC.LCTRL, KC.C),
         KC.HT(KC.A, KC.C),
         KC.HT(KC.D, KC.V),
+        KC.MUTE,
     ]
+]
+
+encoder_handler.map = [
+    ( (KC.MW_UP, KC.MW_DN), )
 ]
 
 if __name__ == '__main__':
