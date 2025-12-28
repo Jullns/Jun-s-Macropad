@@ -7,6 +7,8 @@ This is my macropad for music design and art. Following the tutorial from the bl
 - MX-Style switches (x8)
 - Blank DSA keycaps (x8)
 - SK6812 MINI-E LEDs (x2)
+- 4x M3x16 Bolt
+- 4x M3 Heatset
 
 ## Screenshots:
 - Schematic:
