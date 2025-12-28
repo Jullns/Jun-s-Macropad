@@ -11,7 +11,7 @@ FILE_DESCRIPTION(
 FILE_NAME(
 /* name */ 'Macropad.step',
 /* time_stamp */ '2025-12-28T12:58:45-03:00',
-/* author */ (''),
+/* author */ ('Jun'),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',
 /* originating_system */ 'Autodesk Translation Framework v14.21.0.0',
@@ -19967,3 +19967,4 @@ SOLID_ANGLE_UNIT()
 0.411764705882353);
 ENDSEC;
 END-ISO-10303-21;
+
