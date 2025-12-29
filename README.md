@@ -1,6 +1,10 @@
 # Macropad ✨
 This is my macropad for music design and art. Following the tutorial from the blueprint program but adding some changes.
 
+<img width="446" height="312" alt="Captura de tela 2025-12-29 115201" src="https://github.com/user-attachments/assets/7b12f37e-7353-4000-a947-7874fcd4e80d" />
+<img width="687" height="332" alt="Captura de tela 2025-12-29 114942" src="https://github.com/user-attachments/assets/242cae3c-3e6f-49d2-a090-f95c586746b3" />
+
+--
 ## BOM:
 - Seeed XIAO RP2040
 - EC11 Rotary encoder
