@@ -27,9 +27,7 @@ This is my macropad for music design and art. Following the tutorial from the bl
 - Case:
 
 <img width="274" height="321" alt="Captura de tela 2025-12-28 125550" src="https://github.com/user-attachments/assets/eccbaaf3-8761-410f-975f-ad68d2edddc2" />
-
-<img width="446" height="312" alt="Captura de tela 2025-12-29 115201" src="https://github.com/user-attachments/assets/7b12f37e-7353-4000-a947-7874fcd4e80d" />
-
+<img width="489" height="312" alt="Captura de tela 2025-12-29 121635" src="https://github.com/user-attachments/assets/1b041720-594e-4407-81cc-a28945197b6a" />
 <img width="454" height="252" alt="Captura de tela 2025-12-28 130307" src="https://github.com/user-attachments/assets/1dffb3db-988b-4675-b571-90a8fd967ec4" />
 
 
