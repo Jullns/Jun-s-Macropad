@@ -4,7 +4,7 @@ This is my macropad for music design and art. Following the tutorial from the bl
 
 <img width="687" height="332" alt="Captura de tela 2025-12-29 114942" src="https://github.com/user-attachments/assets/242cae3c-3e6f-49d2-a090-f95c586746b3" />
 
---
+-----
 ## BOM:
 - Seeed XIAO RP2040
 - EC11 Rotary encoder
