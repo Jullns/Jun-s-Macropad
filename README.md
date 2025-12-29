@@ -2,7 +2,8 @@
 This is my macropad for music design and art. Following the tutorial from the blueprint program but adding some changes.
 
 
-<img width="687" height="332" alt="Captura de tela 2025-12-29 114942" src="https://github.com/user-attachments/assets/242cae3c-3e6f-49d2-a090-f95c586746b3" />
+<img width="636" height="320" alt="Captura de tela 2025-12-29 121032" src="https://github.com/user-attachments/assets/a9d62607-605c-41be-b6ba-d1710a92da65" />
+
 
 -----
 ## BOM:
